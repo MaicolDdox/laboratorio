@@ -6,6 +6,8 @@ class RandomUserApiService {
 
   static const String uwu = 'https://randomuser.me/api/';
 
+  //uwuwuwuwuuwuuvevw
+
   Future<FernaFlooCarajo> fetchRandomUser({
     required String nationality,
     required String gender,
